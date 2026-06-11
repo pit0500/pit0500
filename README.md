@@ -9,8 +9,8 @@ Building intelligent systems and scalable software
 <a href="https://linkedin.com/in/pietro-macrì-08324536a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://portfolio-pietro-macri.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://portfolio-pietro.pages.dev">
+<img src="https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </a>
 <a href="mailto:pietro.macri@unical.it">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
